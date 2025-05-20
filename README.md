@@ -10,7 +10,7 @@ A modern, responsive portfolio to showcase my projects, technical skills. Built 
   - HTML5, CSS3, JavaScript
 - **Deployment**: 
   - Hosted on Netlify
-  - Continuous Deployment via GitHub/GitLab
+  - Continuous Deployment via GitHub
 
 ## ✨ Key Features
 - Responsive design (mobile, tablet, desktop)
