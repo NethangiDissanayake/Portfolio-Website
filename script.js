@@ -64,10 +64,10 @@ document.addEventListener('DOMContentLoaded', function() {
 // Certifications data
 const certificationsData = [
     { name: "Introduction to Generative AI for Software Development", issuer: "DeepLearning.ai", link: "https://www.coursera.org/account/accomplishments/certificate/EK8CFU1KGKHP" },
-    { name: "Learning Data Science: Understanding the Basics", issuer: "Linkdin", link: "https://www.linkedin.com/learning/certificates/2e0a0efb2775eef11b71e3a5159d91d2de1d753f06021b226380d57362d994b6?trk=share_certificate" },
-    { name: "Machine Learning with Python: Foundations", issuer: "Linkdin", link: "https://www.linkedin.com/learning/certificates/bc7044a856f46c44ee7a09199bc421c2b328895c973d01d39a72cfba1e2751f2?trk=share_certificate" }
-    //{ name: "Python for Data Science, AI and Development", issuer: "IBM", link: "#" }
-   //{ name: "Foundations of Data Science", issuer: "Google", link: "#" },
+    { name: "Learning Data Science: Understanding the Basics", issuer: "Linkedin", link: "https://www.linkedin.com/learning/certificates/2e0a0efb2775eef11b71e3a5159d91d2de1d753f06021b226380d57362d994b6?trk=share_certificate" },
+    { name: "Machine Learning with Python: Foundations", issuer: "Linkedin", link: "https://www.linkedin.com/learning/certificates/bc7044a856f46c44ee7a09199bc421c2b328895c973d01d39a72cfba1e2751f2?trk=share_certificate" },
+    { name: "Introduction to Artificial Intelligence", issuer: "Linkedin", link: "https://www.linkedin.com/learning/certificates/228051886d076ef55750b92ff1e51ca0b6240b5e638e758f17baf1b7bd492db4?trk=share_certificate" },
+    { name: "EMINENCE 4.0", issuer: "IEEE Student Branch University of Ruhuna", link: "https://drive.google.com/file/d/13fWMxihoaJYwbKH4GRP6wOOKmmvlFRgu/view" }
     //{ name: "Intro to LLMs", issuer: "365 Data Science", link: "#" },
    // { name: "Intro to NLP for AI", issuer: "365 Data Science", link: "#" },
     //{ name: "Career Essentials in Data Analysis", issuer: "Microsoft and LinkedIn", link: "#" },
